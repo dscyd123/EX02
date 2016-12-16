@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "D:\\android\\workspace_as\\EX02\\lib_yuchen0701_as\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_stub.png",
+        "source": "D:\\android\\workspace_as\\EX02\\lib_yuchen0701_as\\src\\main\\res\\drawable-hdpi\\ic_stub.png"
+    },
+    {
+        "merged": "D:\\android\\workspace_as\\EX02\\lib_yuchen0701_as\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_error.png",
+        "source": "D:\\android\\workspace_as\\EX02\\lib_yuchen0701_as\\src\\main\\res\\drawable-hdpi\\ic_error.png"
+    },
+    {
+        "merged": "D:\\android\\workspace_as\\EX02\\lib_yuchen0701_as\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_empty.png",
+        "source": "D:\\android\\workspace_as\\EX02\\lib_yuchen0701_as\\src\\main\\res\\drawable-hdpi\\ic_empty.png"
+    }
+]

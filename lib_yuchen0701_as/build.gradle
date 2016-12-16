@@ -1,0 +1,38 @@
+apply plugin: 'com.android.library'
+
+android {
+    compileSdkVersion 22
+    buildToolsVersion '22.0.1'
+    defaultConfig {
+        minSdkVersion 9
+        targetSdkVersion 22
+        versionCode 3
+        versionName '3.0'
+//        compileOptions {
+//            sourceCompatibility JavaVersion.VERSION_1_8
+//            targetCompatibility JavaVersion.VERSION_1_8
+//        }
+    }
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.txt'
+        }
+    }
+    productFlavors {
+    }
+}
+
+dependencies {
+    compile fileTree(include: ['*.jar'], dir: 'libs')
+    compile 'com.android.support:support-v4:22.2.1'
+    compile 'com.google.code.gson:gson:2.6.2'
+    compile 'com.squareup.okio:okio:1.8.0'
+    compile 'com.squareup.okhttp3:okhttp:3.3.1'
+    //    compile files('libs/ActiveAndroid-3.1.jar')
+    //    compile files('libs/lib_volley0315.jar')
+    //    compile files('libs/lib_nineold.jar')
+    //    compile files('libs/pinyin4j-2.5.0.jar')
+    //    compile files('libs/universal-image-loader-1.9.5.jar')
+//    compile 'com.nineoldandroids:library:2.4.0'
+}

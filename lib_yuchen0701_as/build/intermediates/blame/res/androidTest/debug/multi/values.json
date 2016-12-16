@@ -1,0 +1,68 @@
+[
+    {
+        "outputFile": "D:\\android\\workspace_as\\EX02\\lib_yuchen0701_as\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 1337,
+                    "endColumn": 47,
+                    "endOffset": 1380
+                },
+                "from": {
+                    "file": "D:\\android\\workspace_as\\EX02\\lib_yuchen0701_as\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 1337,
+                        "endColumn": 47,
+                        "endOffset": 1380
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 1385,
+                    "endLine": 22,
+                    "endColumn": 12,
+                    "endOffset": 1672
+                },
+                "from": {
+                    "file": "D:\\android\\workspace_as\\EX02\\lib_yuchen0701_as\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 1385,
+                        "endLine": 22,
+                        "endColumn": 12,
+                        "endOffset": 1672
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 1677,
+                    "endLine": 25,
+                    "endColumn": 12,
+                    "endOffset": 1832
+                },
+                "from": {
+                    "file": "D:\\android\\workspace_as\\EX02\\lib_yuchen0701_as\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 4,
+                        "startOffset": 1677,
+                        "endLine": 25,
+                        "endColumn": 12,
+                        "endOffset": 1832
+                    }
+                }
+            }
+        ]
+    }
+]
