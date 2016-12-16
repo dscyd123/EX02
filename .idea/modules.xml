@@ -3,7 +3,10 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/EX02.iml" filepath="$PROJECT_DIR$/EX02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PlayAudioTest/PlayAudioTest.iml" filepath="$PROJECT_DIR$/PlayAudioTest/PlayAudioTest.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lib_aiton/lib_aiton.iml" filepath="$PROJECT_DIR$/lib_aiton/lib_aiton.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lib_yuchen0701_as/lib_yuchen0701_as.iml" filepath="$PROJECT_DIR$/lib_yuchen0701_as/lib_yuchen0701_as.iml" />
     </modules>
   </component>
 </project>
